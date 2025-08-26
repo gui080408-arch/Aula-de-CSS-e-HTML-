@@ -1,3 +1,25 @@
+.pão{
+    color: rgb(0, 0, 0);
+    background-color: rgb(108, 211, 108);
+    border: 30px;
+border-radius: 15px;
+padding: 30px;
+margin: 60px 1100px 30px 30px;
+
+
+}
+.dieta{
+    color: rgb(0, 0, 0);
+    background-color: rgb(108, 211, 108);
+    border: 30px;
+border-radius: 15px;
+padding: 30px;
+margin: 0px 30px 0px 1400px;
+
+
+}
+
+
 .texto1{
 padding: 40px;
 
@@ -16,17 +38,23 @@ h1{
 
 
 }
-
-
-  
-
 .tentando{
     
     font-size: 30px;
+    color: white;
 
 }
 .tentando:hover{
-  font-size: 60px;
+  font-size: 50px;
+}
+.referencia{
+    
+    font-size: 30px;
+    color: white;
+
+}
+.referencia:hover{
+  font-size: 50px;
 }
 body{
     
@@ -44,3 +72,12 @@ video{
     font-size: 20px;
 }
 
+img{
+width: 450px;
+height: 540px;
+border-radius: 20px;
+margin: 0px 1400px 30px 30px ;
+margin-right: 1400px;
+margin-top: 0px;
+margin-bottom: 30px;
+}
