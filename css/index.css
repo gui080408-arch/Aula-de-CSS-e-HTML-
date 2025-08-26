@@ -1,0 +1,46 @@
+.texto1{
+padding: 40px;
+
+}
+
+h1{
+    text-align: center;
+    background-color: black;
+    color: yellow;
+    border: 10px;
+    border-style: double;
+    border-color: orange;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 30px;
+
+
+}
+
+
+  
+
+.tentando{
+    
+    font-size: 30px;
+
+}
+.tentando:hover{
+  font-size: 60px;
+}
+body{
+    
+    background-image: url(https://img.freepik.com/vetores-gratis/fundo-preto-em-gradiente-com-linhas-onduladas_23-2149145957.jpg);
+background-size: cover;
+
+}
+
+video{
+    border-radius: 30px;
+}
+
+.texto1{
+    color: whitesmoke;
+    font-size: 20px;
+}
+
