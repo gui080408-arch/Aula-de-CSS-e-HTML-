@@ -1,3 +1,17 @@
+
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
 .pão{
     color: rgb(0, 0, 0);
     background-color: rgb(108, 211, 108);
@@ -14,9 +28,7 @@ margin: 60px 1100px 30px 30px;
     border: 30px;
 border-radius: 15px;
 padding: 30px;
-margin: 0px 30px 0px 1400px;
-
-
+margin: 0px 1100px 0px 30px;
 }
 
 
@@ -35,6 +47,7 @@ h1{
     border-radius: 10px;
     padding: 15px;
     margin: 30px;
+    font-family: "Story Script", sans-serif;
 
 
 }
@@ -58,7 +71,7 @@ h1{
 }
 body{
     
-    background-image: url(https://img.freepik.com/vetores-gratis/fundo-preto-em-gradiente-com-linhas-onduladas_23-2149145957.jpg);
+    background-image: url(https://images.unsplash.com/photo-1590487988256-9ed24133863e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGFjYWRlbWlhfGVufDB8fDB8fHww);
 background-size: cover;
 
 }
@@ -70,6 +83,13 @@ video{
 .texto1{
     color: whitesmoke;
     font-size: 20px;
+    background-color: rgb(45, 44, 44);
+    border: 10px;
+    border-radius: 15px;
+    margin: 15px 450px 20px 0px;
+    padding: 30px;
+     font-family: "Roboto Mono", monospace;
+    
 }
 
 img{
@@ -81,3 +101,24 @@ margin-right: 1400px;
 margin-top: 0px;
 margin-bottom: 30px;
 }
+ h2{
+
+    color: white;
+ }
+ .laercio{
+    width: 600px;
+    height: 450px;
+    /* margin-top: -100px; */
+    border-radius: 15px;
+ }
+
+
+
+ .container{
+    display: flex;
+ }
+
+ a{
+    text-decoration: none;
+    margin: 0px 5px 0px 5px;
+ }
